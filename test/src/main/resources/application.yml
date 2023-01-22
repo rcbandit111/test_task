@@ -1,0 +1,7 @@
+data:
+  url: https://raw.githubusercontent.com/mledoze/countries/master/countries.json
+
+spring:
+  jackson:
+    serialization:
+      indent_output: true
